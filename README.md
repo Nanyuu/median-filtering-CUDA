@@ -8,20 +8,20 @@
 
 
 
-8x8 blocks, 64 threads
+# 8x8 blocks, 64 threads
 
 8x8个block 一共64个线程
 
 
 
-requirements：
+# requirements：
 
 运行需要的组件：
 
 OpenCV --处理图片 deal with pic
 
 
-
+# 备注 
 (Many redundants is included, which may be opitimized in the future~)
 
 (代码中包含很多冗余部分.. 以后可能会改进吧hh )
