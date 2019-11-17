@@ -22,7 +22,7 @@ OpenCV --处理图片 deal with pic
 
 
 # 备注 
-(Many redundants is included, which may be opitimized in the future~)
+(Many redundants are included, which may be opitimized in the future~)
 
 (代码中包含很多冗余部分.. 以后可能会改进吧hh )
 
